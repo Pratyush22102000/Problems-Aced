@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; //This is a brute-force approach and it does not go right with the hard subtasks.
 
 int main() {
     //ios_base::sync_with_stdio(false);
